@@ -1,0 +1,9 @@
+a {
+    margin: 20px;
+    color: slateblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(23, 88, 0);
+}
